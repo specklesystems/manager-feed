@@ -1,0 +1,5 @@
+connectors:
+  - dynamo
+  - revit
+  - grasshopper
+  - rhino
