@@ -1,5 +1,9 @@
 connectors:
-  - dynamo
-  - revit
+  - dynamo:
+      name: Dynamo Connector
+      description: For Dynamo Revit and Dynamo Sandbox 2.1-2.9
+  - revit:
+      name: Revit Connector
+      description: For Revit 2019, 2020 and 2021
   - grasshopper
   - rhino
