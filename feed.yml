@@ -1,13 +1,13 @@
 connectors:
-  - dynamo:
-      name: Dynamo Connector
-      description: For Dynamo Revit and Dynamo Sandbox 2.1-2.9
-  - revit:
-      name: Revit Connector
-      description: For Revit 2019, 2020 and 2021
-  - grasshopper:
-      name: Grasshopper Connector
-      description: For Grasshopper 1 on Rhino 6
-  - rhino:
-      name: Revit Connector
-      description: For Rhino 6
+  - slug: dynamo
+    name: Dynamo Connector
+    description: For Dynamo Revit and Dynamo Sandbox 2.1-2.9
+  - slug: revit
+    name: Revit Connector
+    description: For Revit 2019, 2020 and 2021
+  - slug: grasshopper
+    name: Grasshopper Connector
+    description: For Grasshopper 1 on Rhino 6
+  - slug: rhino
+    name: Revit Connector
+    description: For Rhino 6
