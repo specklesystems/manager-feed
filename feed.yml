@@ -5,5 +5,9 @@ connectors:
   - revit:
       name: Revit Connector
       description: For Revit 2019, 2020 and 2021
-  - grasshopper
-  - rhino
+  - grasshopper:
+      name: Grasshopper Connector
+      description: For Grasshopper 1 on Rhino 6
+  - rhino:
+      name: Revit Connector
+      description: For Rhino 6
