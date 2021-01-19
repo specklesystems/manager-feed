@@ -7,7 +7,7 @@ connectors:
     description: For Revit 2019, 2020 and 2021
   - slug: grasshopper
     name: Grasshopper Connector
-    description: For Grasshopper 1 on Rhino 6
+    description: For Grasshopper on Rhino 6
   - slug: rhino
-    name: Revit Connector
+    name: Rhino Connector
     description: For Rhino 6
