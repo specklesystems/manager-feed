@@ -2,18 +2,32 @@ connectors:
   - slug: dynamo
     name: Dynamo Connector
     description: For Dynamo Revit and Dynamo Sandbox 2.1-2.9
+    process-names:
+      - dynamo
+      - revit
   - slug: revit
     name: Revit Connector
     description: For Revit 2019, 2020 and 2021
+    process-names:
+      - revit
   - slug: grasshopper
     name: Grasshopper Connector
     description: For Grasshopper on Rhino 6 & 7
+    process-names:
+      - rhino
   - slug: rhino
     name: Rhino Connector
     description: For Rhino 6 & 7
+    process-names:
+      - rhino
   - slug: autocad
     name: AutoCAD Connector
-    description: For AutoCAD 2021. This version is still WIP!
+    description: For AutoCAD 2021.
+    process-names:
+      - acad
   - slug: civil3d
     name: Civil 3D Connector
-    description: For Civil 3D 2021. This version is still WIP!
+    description: For Civil 3D 2021.
+    process-names:
+      - acad
+      - civil
