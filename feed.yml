@@ -53,5 +53,5 @@ connectors:
 
   - slug: excel
     name: Excel
-    description: Early release for developers, <a href="https://speckle.guide/user/excel.html" target="_blank">read the docs 📚</a>
+    description: Available on the Microsoft Office Store, <a href="https://speckle.guide/user/excel.html" target="_blank">read the docs 📚</a>
     link: https://speckle.guide/user/excel.html
