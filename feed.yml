@@ -1,57 +1,57 @@
 connectors:
   - slug: revit
     name: Revit
-    description: For Revit 2019, 2020, 2021 and 2022, <a href="https://speckle.guide/user/revit.html" target="_blank">read the docs 📚</a>
+    description: For Revit 2019, 2020, 2021 and 2022.
     process-names:
       - revit
 
   - slug: dynamo
     name: Dynamo
-    description: For Dynamo Revit 2019, 2020, 2021 and 2022 and Dynamo Sandbox 2.11, <a href="https://speckle.guide/user/dynamo.html" target="_blank">read the docs 📚</a>
+    description: For Dynamo Revit 2019, 2020, 2021 and 2022 and Dynamo Sandbox 2.11.
     process-names:
       - dynamo
       - revit
 
   - slug: rhino
     name: Rhino
-    description: For Rhino 6 & 7, <a href="https://speckle.guide/user/rhino.html" target="_blank">read the docs 📚</a>
+    description: For Rhino 6 & 7.
     process-names:
       - rhino
 
   - slug: grasshopper
     name: Grasshopper
-    description: For Grasshopper on Rhino 6 & 7, <a href="https://speckle.guide/user/grasshopper.html" target="_blank">read the docs 📚</a>
+    description: For Grasshopper on Rhino 6 & 7.
     process-names:
       - rhino
 
   - slug: autocad
     name: AutoCAD
-    description: For AutoCAD 2021 and 2022, <a href="https://speckle.guide/user/autocadcivil.html" target="_blank">read the docs 📚</a>
+    description: For AutoCAD 2021 and 2022.
     process-names:
       - acad
 
   - slug: civil3d
     name: Civil 3D
-    description: For Civil 3D 2021 and 2022, <a href="https://speckle.guide/user/autocadcivil.html" target="_blank">read the docs 📚</a>
+    description: For Civil 3D 2021 and 2022.
     process-names:
       - acad
       - civil
 
   - slug: blender
     name: Blender
-    description: For Blender 2.92, <a href="https://speckle.guide/user/blender.html" target="_blank">read the docs 📚</a>
+    description: For Blender 2.92.
 
   - slug: unity
     name: Unity
-    description: Early release for developers, <a href="https://speckle.guide/user/unity.html" target="_blank">read the docs 📚</a>
+    description: Early release for developers.
     link: https://speckle.guide/user/unity.html
 
   - slug: unreal
     name: Unreal
-    description: Early release for developers, <a href="https://speckle.guide/user/unreal.html" target="_blank">read the docs 📚</a>
+    description: Early release for developers.
     link: https://speckle.guide/user/unreal.html
 
   - slug: excel
     name: Excel
-    description: Available on the Microsoft Office Store, <a href="https://speckle.guide/user/excel.html" target="_blank">read the docs 📚</a>
+    description: Available on the Microsoft Office Store.
     link: https://speckle.guide/user/excel.html
